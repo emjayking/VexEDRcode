@@ -1,6 +1,6 @@
 # Contributor Covenant Code of Conduct
 
-##specifics (summarised)
+##specifics (summarized)
 -don't be dumb
 -do your work
 -know your stuff
